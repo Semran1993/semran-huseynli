@@ -741,11 +741,21 @@ color: #fff;
 }
 #iletisim .max-width .deney .sol .bilgi .fa-youtube:hover{
     color:#FF0000;
- }#iletisim .max-width .deney .sol .bilgi .fa-twitter:hover{
+ }
+ #iletisim .max-width .deney .sol .bilgi .fa-twitter:hover{
     color:#1da1f2;
+ }
+ #iletisim .max-width .deney .sol .bilgi .fa-linkedin:hover{
+    color:#0077b5;
+ }
+ #iletisim .max-width .deney .sol .bilgi .fa-github:hover{
+    color:#0077b5;
  }
 #iletisim .max-width .baslik{
     color:#fff;
+}
+#iletisim .deney .bilgi{
+    display:flex;
 }
 
 #iletisim .max-width .baslik::before{
